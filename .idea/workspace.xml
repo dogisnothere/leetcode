@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8be74355-c426-472b-b33f-7ac9c5524b2a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/CheckIfTwoStringArraysAreEquivalent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/SumOfUniqueElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,7 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CheckIfTwoStringArraysAreEquivalent">
+  <component name="RunManager" selected="Application.SumOfUniqueElements">
     <configuration name="CheckIfTwoStringArraysAreEquivalent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.arrays.CheckIfTwoStringArraysAreEquivalent" />
       <module name="leetcode" />
@@ -81,8 +81,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SumOfUniqueElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.arrays.SumOfUniqueElements" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOfUniqueElements" />
         <item itemvalue="Application.CheckIfTwoStringArraysAreEquivalent" />
         <item itemvalue="Application.RichestCustomerWealth" />
         <item itemvalue="Application.FindMaxConsecutiveOnes" />
