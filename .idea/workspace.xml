@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8be74355-c426-472b-b33f-7ac9c5524b2a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/SquaresOfASortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/RemoveElementFromArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +41,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SquaresOfASortedArray">
+  <component name="RunManager" selected="Application.RemoveElementFromArray">
     <configuration name="CheckIfTwoStringArraysAreEquivalent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.arrays.CheckIfTwoStringArraysAreEquivalent" />
       <module name="leetcode" />
@@ -69,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RichestCustomerWealth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.arrays.RichestCustomerWealth" />
+    <configuration name="RemoveElementFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.arrays.RemoveElementFromArray" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveElementFromArray" />
         <item itemvalue="Application.SquaresOfASortedArray" />
         <item itemvalue="Application.FindWordsContaining" />
         <item itemvalue="Application.SumOfUniqueElements" />
         <item itemvalue="Application.CheckIfTwoStringArraysAreEquivalent" />
-        <item itemvalue="Application.RichestCustomerWealth" />
       </list>
     </recent_temporary>
   </component>
